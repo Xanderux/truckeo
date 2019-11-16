@@ -153,8 +153,8 @@ include("header.php");
   				</div>
 
           <div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">5</span>
-            <p>Prix du repas</p>
+            <span data-toggle="counter-up">10</span>
+            <p>points relais</p>
   				</div>
 
 

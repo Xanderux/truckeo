@@ -55,11 +55,12 @@ include("header.php");
              </tr>
            </tfoot>
          </table>
-
+       <button type="button" class="btn btn-success col-md-4 offset-md-8">Payer</button>
 
 
        </div>
-       <button type="button" class="btn btn-success col-md-4 offset-md-8">Valider</button>
+
+
 
      </div>
 

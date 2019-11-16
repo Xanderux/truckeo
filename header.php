@@ -54,7 +54,7 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="index.php">Home</a></li>
+          <li class="menu-active"><a href="index.php">Accueil</a></li>
           <li><a href="buy.php">Réserver</a></li>
           <!-- <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
