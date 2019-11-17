@@ -25,7 +25,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/apple_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/apple_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Pomme</a></h2>

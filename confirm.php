@@ -40,7 +40,7 @@ include("header.php");
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td>Gruillère</td>
+                <td>Gruyère</td>
                 <td>3</td>
                 <td>12,00€</td>
               </tr>
