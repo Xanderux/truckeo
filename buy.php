@@ -46,7 +46,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp essai" data-wow-delay="0.1s">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/cheese_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/cheese_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Gruyère</a></h2>
@@ -65,7 +65,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/miel_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/miel_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Miel</a></h2>
@@ -86,7 +86,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/poireau_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/poireau_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Poireaux</a></h2>
@@ -105,7 +105,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/tomato_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/tomato_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Tomates</a></h2>
@@ -124,7 +124,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
               <div class="about-col">
                 <div class="img">
-                  <img src="imgs/products/eggs_resized.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/eggs_resized.webp" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Oeufs</a></h2>
