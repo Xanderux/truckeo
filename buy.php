@@ -25,7 +25,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/products/apple.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/apple_resized.jpg" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Pomme</a></h2>
@@ -46,10 +46,10 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp essai" data-wow-delay="0.1s">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/products/cheese.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/cheese_resized.jpg" alt="" class="img-fluid">
 
                 </div>
-                <h2 class="title"><a href="#">Gruillère</a></h2>
+                <h2 class="title"><a href="#">Gruyère</a></h2>
                 <p>
                   Lait de vache
                 </p>
@@ -65,7 +65,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/products/miel.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/miel_resized.jpg" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Miel</a></h2>
@@ -86,7 +86,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/products/poireau.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/poireau_resized.jpg" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Poireaux</a></h2>
@@ -105,7 +105,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/products/tomato.jpg" alt="" class="img-fluid">
+                  <img src="imgs/products/tomato_resized.jpg" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Tomates</a></h2>
@@ -124,7 +124,7 @@ include("header.php");
             <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
               <div class="about-col">
                 <div class="img">
-                  <img src="img/eggs.jpg" alt="" class="img-fluid">
+                  <img src="imgs/eggs_resized.jpg" alt="" class="img-fluid">
 
                 </div>
                 <h2 class="title"><a href="#">Oeufs</a></h2>

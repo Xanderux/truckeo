@@ -14,7 +14,7 @@ include("header.php");
         <div class="carousel-inner" role="listbox">
 
           <div class="carousel-item active">
-            <div class="carousel-background"><img src="img/legumes.jpg" alt=""></div>
+            <div class="carousel-background"><img src="imgs/legumes_resized.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>Des aliments de qualité</h2>
@@ -25,7 +25,7 @@ include("header.php");
           </div>
 
           <div class="carousel-item">
-            <div class="carousel-background"><img src="img/man_field.jpg" alt=""></div>
+            <div class="carousel-background"><img src="imgs/man_field_resized.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>Des producteurs locaux</h2>
@@ -72,7 +72,7 @@ include("header.php");
           <div class="col-md-4 wow fadeInUp">
             <div class="about-col">
               <div class="img">
-                <img src="img/panier2.png" alt="" class="img-fluid">
+                <img src="imgs/panier2_resized.jpg" alt="" class="img-fluid">
                 
               </div>
               <h2 class="title"><a href="#">Personnalisé</a></h2>
@@ -87,7 +87,7 @@ include("header.php");
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div class="about-col">
               <div class="img">
-                <img src="img/healthy.jpg" alt="" class="img-fluid">
+                <img src="imgs/healthy_resized.jpg" alt="" class="img-fluid">
                
               </div>
               <h2 class="title"><a href="#">Qualité</a></h2>
@@ -100,7 +100,7 @@ include("header.php");
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col">
               <div class="img">
-                <img src="img/farmer.jpg" alt="" class="img-fluid">
+                <img src="imgs/farmer_resized.jpg" alt="" class="img-fluid">
               
               </div>
               <h2 class="title"><a href="#">Proximité</a></h2>
