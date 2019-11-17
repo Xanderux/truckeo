@@ -105,8 +105,8 @@ include("header.php");
               </div>
               <h2 class="title"><a href="#">Proximité</a></h2>
               <p>
-                 Tous nos partenaires se situent à moins de 50 kilomètres de Bourges. <br>
-                 Plus de pollution à cause des trajets et des produits frais cueillient le jour même! <br>
+                 Tous nos partenaires se situent à moins de 25 kilomètres de Bourges. <br>
+                 Plus de pollution à cause des trajets et des produits frais cueillis le jour même! <br>
                  Récupérez juste votre panier dans le relais le plus proche.
 
 
@@ -148,19 +148,19 @@ include("header.php");
         <div class="row counters">
 
   				<div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">274</span>
-            <p>Fournisseurs</p>
+            <span data-toggle="counter-up">20</span>
+            <p>producteurs locaux</p>
   				</div>
 
           <div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">10</span>
+            <span data-toggle="counter-up">5</span>
             <p>points relais</p>
   				</div>
 
 
           <div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">10</span>
-            <p>Hard Workers</p>
+            <span data-toggle="counter-up">30</span>
+            <p>réferences</p>
   				</div>
 
   			</div>
@@ -253,6 +253,8 @@ include("header.php");
 
   </main>
 <script>
+
+
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
