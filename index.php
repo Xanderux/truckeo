@@ -17,7 +17,7 @@ include("header.php");
             <div class="carousel-background"><img src="imgs/legumes_resized.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Des aliments de qualité</h2>
+                <h2>Des aliments de qualité en circuit court</h2>
                 <a href="buy.php" class="btn-get-started scrollto"> Commander</a>
               
               </div>
@@ -92,7 +92,7 @@ include("header.php");
               </div>
               <h2 class="title"><a href="#">Qualité</a></h2>
               <p>
-                Notre réseau diversifié est constitué de professionnels sélectionnés rigoureusement. Nous collectons leurs invendus pour vos confectionner des repas équilibrés et de qualité.
+                Notre réseau diversifié est constitué de professionnels sélectionnés rigoureusement.
               </p>
             </div>
           </div>
@@ -141,7 +141,7 @@ include("header.php");
       <div class="container">
 
         <header class="section-header">
-          <h3>Quelque chiffres</h3>
+          <h3>Quelques chiffres</h3>
           <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>-->
         </header>
 
