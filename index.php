@@ -148,7 +148,7 @@ include("header.php");
         <div class="row counters">
 
   				<div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">20</span>
+            <span data-toggle="counter-up">10</span>
             <p>producteurs locaux</p>
   				</div>
 
@@ -159,7 +159,7 @@ include("header.php");
 
 
           <div class="col-lg-4 col-4 text-center">
-            <span data-toggle="counter-up">30</span>
+            <span data-toggle="counter-up">50</span>
             <p>réferences</p>
   				</div>
 
